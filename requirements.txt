@@ -4,3 +4,5 @@ idna==3.10
 razorpay==2.0.0
 requests==2.32.5
 urllib3==2.5.0
+python-dotenv
+
